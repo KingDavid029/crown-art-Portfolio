@@ -2,7 +2,16 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    font-family: 'poppins';
+    font-family: 'Pacifico', cursive;
+    /* font-family: "Bitcount Prop Single", system-ui;
+  font-optical-sizing: auto;
+  font-weight:100px;
+  font-style: normal;
+  font-variation-settings:
+    "slnt" 0,
+    "CRSV" 0.5,
+    "ELSH" 0,
+    "ELXP" 0; */
 }
 
 body {
