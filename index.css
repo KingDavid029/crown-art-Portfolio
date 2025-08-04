@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Poppins', sans-serif;
     /* font-family: "Bitcount Prop Single", system-ui;
   font-optical-sizing: auto;
   font-weight:100px;
@@ -1534,6 +1534,7 @@ footer .myCV button:hover::after {
     }
 
 }
+
 
 
 
