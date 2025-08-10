@@ -934,13 +934,14 @@ header .li::before:active {
 
 @media (max-width: 768px) {
     .one {
-        height: 90vh;
-        padding: 50px 20px 50px 0px;
+        height: auto;
+        padding: 50px 20px;
         display: flex;
         flex-direction: row;
         row-gap: 30px;
         flex-wrap: wrap;
         align-items: center;
+        text-align: center;
         justify-content: center;
     }
 
@@ -1536,6 +1537,7 @@ footer .myCV button:hover::after {
     }
 
 }
+
 
 
 
