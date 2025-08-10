@@ -224,7 +224,7 @@ header .li::before:active {
 
 @media (max-width: 768px) {
     header {
-        padding: 15px 50px;
+        padding: 15px 30px;
     }
     header a {
         font-size: 0.6rem;
@@ -1536,6 +1536,7 @@ footer .myCV button:hover::after {
     }
 
 }
+
 
 
 
