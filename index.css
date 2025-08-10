@@ -227,10 +227,10 @@ header .li::before:active {
         padding: 15px 50px;
     }
     header a {
-        font-size: 0.7rem;
+        font-size: 0.6rem;
     }
     header p {
-        font-size: 0.7rem;
+        font-size: 0.6rem;
         scale: 1;
     }
     header img {
@@ -768,6 +768,8 @@ header .li::before:active {
     overflow: hidden;
     align-items: center;
     justify-content: space-around;
+    justify-content: center;
+    overflow-x: hidden;
 }
    
 .one .image {
@@ -1534,6 +1536,7 @@ footer .myCV button:hover::after {
     }
 
 }
+
 
 
 
